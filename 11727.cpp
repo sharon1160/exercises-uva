@@ -15,5 +15,6 @@ int main()
     cout<<"Case "<<count+1<<": "<<sueldos[1]<<endl;
     sueldos.erase(sueldos.begin(),sueldos.end());
     count++;
+    
   }
 }
